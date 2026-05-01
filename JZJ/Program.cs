@@ -1,8 +1,8 @@
 ﻿
 
 using JZJ.Accounts;
-
-
+Console.WriteLine("gamrjoba");
+Console.WriteLine("zdarova");
 Console.WriteLine("mogesalmebit JZJ-is bankomatshi");
 Registration registration = new Registration();
 

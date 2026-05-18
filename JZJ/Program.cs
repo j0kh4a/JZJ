@@ -3,7 +3,7 @@
 using JZJ.Accounts;
 
 Console.WriteLine("mogesalmebit JZJ-is bankomatshi");
-Registration registration = new Registration();
+User registration = new User();
 
 
 string UserAction = string.Empty;

@@ -20,6 +20,7 @@ if (UserType == "1")
 }
 else if (UserType == "2")
 {
+
     Console.WriteLine("risi gaketeba gnebavt\n");
     Console.Write("1.momxmareblebis siis naxva/2.sesxebis dadastureba : ");
     AdminAction = Console.ReadLine() ?? string.Empty;

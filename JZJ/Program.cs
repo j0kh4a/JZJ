@@ -51,7 +51,7 @@ if (UserAction == "1")
 else if (UserAction == "3")
 {
     Console.WriteLine("1.tu balansis semowmeba gindat jer equntshi unda sexvidet\n");
-    Console.WriteLine("2. tu sesxis ageba gnebavt sedit eqauntshi da smdegom moitxovet");
+    Console.WriteLine("2. tu sesxis ageba gnebavt sedit eqauntshi da smdegom moitxovet\n");
     Console.WriteLine("3.tu raime tqenikuri xrsvezia sesxis agebastan balsntan and eqantant gtxovt dagvikavshirdet emailze " +
         "jokhadze96@gmail.com / nikaZaqaidze@gmail.com/ nikaJabana@gmail.com" +
         " an dagvikavshirdit sakontakto nomerze +995 577 551 971 \n");

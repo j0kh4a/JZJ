@@ -19,13 +19,13 @@ if (UserType == "1")
 }
 else if (UserType == "2")
 {
-    Console.WriteLine("risi gaketeba gnebavt");
+    Console.WriteLine("risi gaketeba gnebavt\n");
     Console.Write("1.momxmareblebis siis naxva/2.sesxebis dadastureba : ");
     AdminAction = Console.ReadLine() ?? string.Empty;
 }
 else
 {
-    Console.WriteLine("darwmundit rom romelime airciet");
+    Console.WriteLine("darwmundit rom romelime airchiet");
 }
 
 if (UserAction == "1")
@@ -50,14 +50,14 @@ if (UserAction == "1")
 }
 else if (UserAction == "3")
 {
-    Console.WriteLine("1.tu balansis semowmeba gindat jer equntshi unda sexvidet");
-    Console.WriteLine("2. tu sesxis ageba gnebavt sedit eqauntshi da smdegom moitxovet");
+    Console.WriteLine("1.tu balansis semowmeba gindat jer equntshi unda sexvidet\n");
+    Console.WriteLine("2. tu sesxis ageba gnebavt sedit eqauntshi da smdegom moitxovet\n");
     Console.WriteLine("3.tu raime tqenikuri xrsvezia sesxis agebastan balsntan and eqantant gtxovt dagvikavshirdet emailze " +
         "jokhadze96@gmail.com / nikaZaqaidze@gmail.com/ nikaJabana@gmail.com" +
-        " an dagvikavshirdit sakontakto nomerze 996 67 67 67");
+        " an dagvikavshirdit sakontakto nomerze +995 577 551 971 \n");
 }
 else
 {
-    Console.WriteLine("gtxovt darwumnit rom romelime airciet");
+    Console.WriteLine("gtxovt darwumndi rom romelime airchiet");
 }
 

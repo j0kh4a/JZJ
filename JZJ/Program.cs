@@ -2,19 +2,20 @@
 
 using JZJ.Accounts;
 
-Console.WriteLine("mogesalmebit JZJ-is bankomatshi");
+Console.WriteLine("mogesalmebit JZJ-is bankomatshi\n");
 User registration = new User();
 
 
 string UserAction = string.Empty;
 string AdminAction = string.Empty;
 
-Console.Write("gtxovt airciot romeli xart 1.momxmarebeli / 2.administratori : ");
+Console.Write("gtxovt airciot romeli xart 1.momxmarebeli / 2.administratori :");
 string UserType = Console.ReadLine() ?? string.Empty;
 if (UserType == "1")
 {
-    Console.WriteLine("rit segvizlia dagexmarot dges?");
-    Console.Write("1.daregistrireba/2.sesvla /3.daxmareba : ");
+    Console.WriteLine("\n" +
+        "rit segvizlia dagexmarot dges?\n");
+    Console.Write("1.daregistrireba/2.sesvla /3.daxmareba :");
     UserAction = Console.ReadLine() ?? string.Empty;
 }
 else if (UserType == "2")
